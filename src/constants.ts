@@ -87,7 +87,11 @@ export const AppType = "developerPortal";
 export enum SettingNames {
     backendUrl = "backendUrl",
     managementApiUrl = "managementApiUrl",
-    managementApiAccessToken = "managementApiAccessToken"
+    managementApiAccessToken = "managementApiAccessToken",
+    subscriptionId = "subscriptionId",
+    resourceGroupName = "resourceGroupName",
+    serviceName = "serviceName",
+    armEndpoint = "armEndpoint"
 }
 
 /**
