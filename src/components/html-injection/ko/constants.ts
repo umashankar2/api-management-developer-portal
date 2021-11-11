@@ -1,4 +1,4 @@
-export const htmlCodeInitial = 
+export const htmlCodeInitial =
 `<html>
 <head>
     <style>
